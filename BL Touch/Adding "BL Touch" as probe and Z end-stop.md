@@ -9,13 +9,13 @@ I found _Creality 4.5.2_'s pin names from [here](https://github.com/CR6Community
 ## Tools
 These are the main tools and supplies **I** used, you don't need everything listed here to make this mod work. I'd say the bare minimum is having access to a 3-pin JST connector.
 
-- [Crimping tool and JST/Dupoint connectors](https://www.amazon.com/dp/B0BJZN4KD7)
-- [Wire Stripper](https://www.amazon.com/dp/B097SZ1F7W)
-- [Heat shrink wraps](https://www.amazon.com/dp/B072PCQ2LW)
-- [AWG24 Wires](https://www.amazon.com/dp/B089D13Y1N)
-- [Soldering Iron](https://www.amazon.com/gp/product/B00ANZRT4M) and [solder](https://www.amazon.com/gp/product/B00068IJWC)
-- [Multimeter](https://www.amazon.com/gp/product/B000EVYGZA)
-- [BL Touch](https://www.amazon.com/dp/B076PQG1FF) (duh!)
+- [Crimping tool and JST/Dupoint connectors](https://www.amazon.com/dp/B0BJZN4KD7?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=0722276a626d7f85d34a6f9ff9b152bc&camp=1789&creative=9325)
+- [Wire Stripper](https://www.amazon.com/dp/B097SZ1F7W?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=76d75331bc07420239b9a5fc9a6ddb30&camp=1789&creative=9325)
+- [Heat shrink wraps](https://www.amazon.com/dp/B072PCQ2LW?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=6d180f6397995dfd0d1addee4244fa03&camp=1789&creative=9325)
+- [AWG24 Wires](https://www.amazon.com/dp/B089D13Y1N?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=adc74168560833eb92af967ad232ea59&camp=1789&creative=9325)
+- [Soldering Iron](https://www.amazon.com/gp/product/B00ANZRT4M?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=a4124b29a8253b2271459a567b074717&camp=1789&creative=9325) and [Solder](https://www.amazon.com/gp/product/B00068IJWC?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=e6ea6d05267d951f9b54cf8cfd100775&camp=1789&creative=9325)
+- [Multimeter](https://www.amazon.com/gp/product/B000EVYGZA?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=c9538575c0aa267aaf25aef0ec45c9b1&camp=1789&creative=9325)
+- [BL Touch](https://www.amazon.com/dp/B076PQG1FF?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=bc080dfeaf63916c6037626fd1f14db5&camp=1789&creative=9325) (duh!)
 
 1. Open the optical sensor and cut its wires as close to sensor as you can.
 ![Optical sensor](IMG_0131.png)
