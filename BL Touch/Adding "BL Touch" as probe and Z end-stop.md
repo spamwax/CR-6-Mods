@@ -48,7 +48,7 @@ Adjust the other options of `bltouch` section in `printer.cfg` file based on how
 
 I mounted mine using a combination of 3D printed part & some metallic parts I had from my monitor stand!
 ![bltouch mount](image-3.png)
-The CAD files I used in the above setup: [X-Carriage Mount](../resources/BLTouchCarriage-Mount.step) and [BL Touch Mount](../resources/BLTouchCarriage-Mount.step)
+The CAD files I used in the above setup: [X-Carriage Mount](../resources/BLTouchCarriage-Mount.step) and [BL Touch Mount](../resources/BLTouch-Mount.step)
 
 ## Acknowledgement
 
