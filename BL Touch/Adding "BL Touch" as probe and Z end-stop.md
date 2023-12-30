@@ -9,7 +9,7 @@ I found _Creality 4.5.2_'s pin names from [here](https://github.com/CR6Community
 ## Tools
 These are the main tools and supplies **I** used, you don't need everything listed here to make this mod work. I'd say the bare minimum is having access to a 3-pin JST connector.
 
-- [Crampign tool and JST/Dupoint connectors](https://www.amazon.com/dp/B0BJZN4KD7)
+- [Crimping tool and JST/Dupoint connectors](https://www.amazon.com/dp/B0BJZN4KD7)
 - [Wire Stripper](https://www.amazon.com/dp/B097SZ1F7W)
 - [Heat shrink wraps](https://www.amazon.com/dp/B072PCQ2LW)
 - [AWG24 Wires](https://www.amazon.com/dp/B089D13Y1N)
