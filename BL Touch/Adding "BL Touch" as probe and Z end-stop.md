@@ -27,8 +27,9 @@ These are the main tools and supplies **I** used, you don't need everything list
 3. Cut 3 wires, preferably different colors, with an approximate length of 40*cm* to 50*cm*. I used red, black and white. Then connect them to a female JST XH-3Y pin. You will need [the crimping tool](https://www.amazon.com/dp/B0BJZN4KD7?&_encoding=UTF8&tag=spamwax-20&linkCode=ur2&linkId=0722276a626d7f85d34a6f9ff9b152bc&camp=1789&creative=9325) for this step.
 4. Open the mainboard's cover to access it, and conect the female JST connector from step 3 to the mainboard header labled **J3**. In my case, the red wire is connected to top pin (3.3V) on J3, the black is connected to middle pin (ground) and the white is connected to bottom pin (signal). You will not use the red wire for BL Touch, I did it for future just in case if I ever needed a 3.3V line.
 ![mainboard J3](image-1.png)
-5. Carefully route the 3 wires through the same hole that the old/removed optical sensor cables are using.
-6. The other end of the wires (from step 3) will be connected to BL Touch's probe signal:
+This is my female JST XH-3Y connector with 3 different color wires:![IMG_6765](https://github.com/spamwax/CR-6-Mods/assets/1251233/2e41e336-b923-4ffe-b0e6-38522a8d9b38)
+6. Carefully route the 3 wires through the same hole that the old/removed optical sensor cables are using.
+7. The other end of the wires (from step 3) will be connected to BL Touch's probe signal:
     - Black wire from BL Touch to the ground pin of mainboard's J3 connector (in my case also black)
     - White wire from BL Touch to the signal pin of mainboard's J3 connector (in my case also white)
     - If like me, you also connected the 3.3V pin of mainboard's J3 connector to a wire, make sure it is fully insulated.
